@@ -93,6 +93,7 @@ Future work could include:
 
 For questions or collaboration opportunities:
 
-**Your Name**  
+**Name**  
 Eng Ali Mohammed  
+Denmark Esbjerg
 
